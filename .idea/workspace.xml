@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="changed style of template">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jy4ipnzCjivsiY3t5vV9ozcnkN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/geometryTopics/navbar.html" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="" />
+      <created>1604763128260</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604763128260</updated>
+      <workItem from="1604763130048" duration="812000" />
+      <workItem from="1604936087632" duration="189000" />
+      <workItem from="1604936325476" duration="276000" />
+      <workItem from="1605353386004" duration="55000" />
+      <workItem from="1605354367158" duration="605000" />
+      <workItem from="1605467308294" duration="8641000" />
+    </task>
+    <task id="LOCAL-00001" summary="changed style of template">
+      <created>1604936582620</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604936582620</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed style of template" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed style of template" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="349" y="102" key="#CLI_Interpreters" timestamp="1605470932042">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="349" y="102" key="#CLI_Interpreters/0.30.1536.834@0.30.1536.834" timestamp="1605470932042" />
+    <state x="475" y="90" key="#PHP" timestamp="1605470936173">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="475" y="90" key="#PHP/0.30.1536.834@0.30.1536.834" timestamp="1605470936173" />
+    <state x="422" y="75" key="#SSH_Configurations" timestamp="1605470901224">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="422" y="75" key="#SSH_Configurations/0.30.1536.834@0.30.1536.834" timestamp="1605470901224" />
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1605470711938">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1605470711938" />
+    <state x="277" y="92" key="SettingsEditor" timestamp="1604763568291">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="277" y="92" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1604763568291" />
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1604936588340">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1604936588340" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1605469405187">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1605469405187" />
+  </component>
+</project>
