@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="10 pages are now available in navbar">
-      <change beforePath="$PROJECT_DIR$/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
+    <list default="true" id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="fixed navbar">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <workItem from="1605353386004" duration="55000" />
       <workItem from="1605354367158" duration="605000" />
       <workItem from="1605467308294" duration="8914000" />
-      <workItem from="1605505676797" duration="2039000" />
+      <workItem from="1605505676797" duration="2509000" />
     </task>
     <task id="LOCAL-00001" summary="changed style of template">
       <created>1604936582620</created>
@@ -97,7 +98,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605508118406</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed navbar">
+      <created>1605508312211</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605508312211</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +128,8 @@
     <MESSAGE value="added all pages" />
     <MESSAGE value="added two more pages" />
     <MESSAGE value="10 pages are now available in navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="10 pages are now available in navbar" />
+    <MESSAGE value="fixed navbar" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed navbar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="349" y="102" key="#CLI_Interpreters" timestamp="1605470932042">

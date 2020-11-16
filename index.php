@@ -16,15 +16,14 @@ require_once 'navbar.html';
 
 <main class="content-wrapper">
 	<div class="container-fluid">
-		<h1>Тема</h1>
+		<h1>Здравствуйте!</h1>
 		<hr>
 		<div class="row">
 			<div class="col-md-8">
-				<p>Основной текст Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quasi ab eum voluptatibus sunt consequuntur a modi deserunt ut, dolores voluptates provident nisi optio et deleniti porro sint doloribus eveniet ex explicabo nemo recusandae? Maxime deleniti commodi, assumenda a nihil ea.</p>
-				<p>Пример формулы: \( (a - 2)^2 = a^2 - 4a + 4 \)</p>
+				<p>Приветствуем вас на сайте-сборнике тем вычислительной геометрии, созданном бравой групрой по информатике из школы Летово</p>
 			</div>
 			<div class="col-md-4">
-				<img src="" alt="your image">
+				<img src="images/photo5429510618823634643.jpg" alt="your image">
 			</div>
 		</div>
 	</div>
