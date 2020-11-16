@@ -109,8 +109,9 @@ require_once 'navbar.html';
 </pre></div>
 					<p>В этом случае разные результаты функции f у границ - \(l\) и \(r\) - а значит одна пара точек уже найдена и перед запуском бинпоиска их необходимо куда-либо запомнить для поиска координаты точки пересечения позже. Итак, точки, определяющие грани, пересекаемые прямой найдены, осталась самая последняя проверка. Если функция f от одной из границ - \(r\) или \(l\) - выдает 0 - это значит, что прямая проходит через эту точку и, следовательно, точка пересечения только одна - и ее координаты это координаты этой границы. Если же функция f от обеих границ даёт ноль - это значит, что ребро, образованное этими определенными точками лежит на прямой и, следовательно, точек пересечения бесконечно много. Если же ни один из этих случаев не подходит - нужно найти точку пересечения. Допустим, пара точек, которые мы нашли - это D и E. Тогда, вычислим уравнения прямых: \[ a = A + ua*(B - A) \], \[ b = D + ub*(E - D) \]. Решение относительно точки a = b дает два уравнения на координаты (ua и ub): \[ x1 + ua*(x2 - x1) = x3 + ub*(x4 - x3) \], \[ y1 + ua*(y2 - y1) = y3 + ub*(y4 - y3) \]. Решая относительно ua и ub, имеем \[ ua = {(x4 - x3)*(y1-y3) - (x1 - x3)*(y4 - y3) \over (y4 - y3)*(x2-x1) - (y2 - y1)*(x4 - x3)} \], \[ ub = {(x2-x1)*(y1 - y3) - (x1 - x3)*(y2 - y1) \over (y4 - y3)*(x2-x1) - (y2 - y1)*(x4 - x3)} \]. Подстановка любого из этих значений в соответствующее уравнение прямой даст точку пересечения</p>
 				</div>
-				<div class="col-md-4" style="text-align: center;">
-					<img src="images/method-draw-image.svg" alt="your image">
+				<div class="col-md-4" style="text-align: center;" onclick="restart()">
+                    <img src="images/method-draw-image.svg" alt="your image" id="target1" data-rotation="0" data-y="0" style="display: flex;
+        flex-flow: row;">
                     <p>Рис. 1</p>
 				</div>
 			</div>
@@ -124,6 +125,63 @@ require_once 'navbar.html';
 			</div>
 		</div>
 	</footer>
+
+<script src="js/tween.umd.js"></script>
+<script src="js/RequestAnimationFrame.js"></script>
+<script>
+    init()
+    animate()
+
+    var restart, stop, start, pause, resume
+
+    function init() {
+        var target1 = document.getElementById('target1')
+        var tween1 = new TWEEN.Tween(target1.dataset)
+            .to({rotation: 360, y: 300}, 750)
+            .repeat(1)
+            .delay(1000)
+            .yoyo(true)
+            .easing(TWEEN.Easing.Cubic.InOut)
+            .onUpdate(function (object) {
+                updateBox(target1, object)
+            })
+            .start()
+
+        restart = function () {
+            tween1.stop().start()
+        }
+
+        stop = function () {
+            tween1.stop()
+        }
+
+        start = function () {
+            tween1.start()
+        }
+
+        pause = function () {
+            tween1.pause()
+        }
+
+        resume = function () {
+            tween1.resume()
+        }
+    }
+
+    function animate(time) {
+        requestAnimationFrame(animate)
+
+        TWEEN.update(time)
+    }
+
+    function updateBox(box, params) {
+        var s = box.style,
+            transform = 'translateY(' + Math.round(params.y) + 'px) rotate(' + Math.floor(params.rotation) + 'deg)'
+        s.webkitTransform = transform
+        s.mozTransform = transform
+        s.transform = transform
+    }
+</script>
 	<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>

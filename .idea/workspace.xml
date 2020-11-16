@@ -19,9 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="added bigger description to index.php">
+    <list default="true" id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="added one more page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intersecLine.php" beforeDir="false" afterPath="$PROJECT_DIR$/intersecLine.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +34,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -73,7 +74,8 @@
       <workItem from="1605353386004" duration="55000" />
       <workItem from="1605354367158" duration="605000" />
       <workItem from="1605467308294" duration="8914000" />
-      <workItem from="1605505676797" duration="3191000" />
+      <workItem from="1605505676797" duration="4458000" />
+      <workItem from="1605526988937" duration="4454000" />
     </task>
     <task id="LOCAL-00001" summary="changed style of template">
       <created>1604936582620</created>
@@ -124,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605509134423</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="added one more page">
+      <created>1605509472686</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605509472686</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +159,8 @@
     <MESSAGE value="fixed navbar" />
     <MESSAGE value="changed index.php" />
     <MESSAGE value="added bigger description to index.php" />
-    <option name="LAST_COMMIT_MESSAGE" value="added bigger description to index.php" />
+    <MESSAGE value="added one more page" />
+    <option name="LAST_COMMIT_MESSAGE" value="added one more page" />
   </component>
   <component name="WindowStateProjectService">
     <state x="349" y="102" key="#CLI_Interpreters" timestamp="1605470932042">
@@ -165,18 +175,18 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="422" y="75" key="#SSH_Configurations/0.30.1536.834@0.30.1536.834" timestamp="1605470901224" />
-    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1605470711938">
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1605528009174">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1605470711938" />
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1605528009174" />
     <state x="277" y="92" key="SettingsEditor" timestamp="1604763568291">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="277" y="92" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1604763568291" />
-    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1605509137029">
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1605509481731">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1605509137029" />
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1605509481731" />
     <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1605469405187">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
