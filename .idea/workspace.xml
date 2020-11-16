@@ -19,8 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="fixed navbar">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="051befd1-ac44-4a94-b871-01766d9adc2b" name="Default Changelist" comment="changed index.php">
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <workItem from="1605353386004" duration="55000" />
       <workItem from="1605354367158" duration="605000" />
       <workItem from="1605467308294" duration="8914000" />
-      <workItem from="1605505676797" duration="2509000" />
+      <workItem from="1605505676797" duration="2728000" />
     </task>
     <task id="LOCAL-00001" summary="changed style of template">
       <created>1604936582620</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605508312211</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changed index.php">
+      <created>1605508811520</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605508811520</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,7 +135,8 @@
     <MESSAGE value="added two more pages" />
     <MESSAGE value="10 pages are now available in navbar" />
     <MESSAGE value="fixed navbar" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed navbar" />
+    <MESSAGE value="changed index.php" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed index.php" />
   </component>
   <component name="WindowStateProjectService">
     <state x="349" y="102" key="#CLI_Interpreters" timestamp="1605470932042">
@@ -152,10 +159,10 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="277" y="92" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1604763568291" />
-    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1605508122454">
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2" timestamp="1605508815791">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1605508122454" />
+    <state x="361" y="180" key="Vcs.Push.Dialog.v2/0.30.1536.834@0.30.1536.834" timestamp="1605508815791" />
     <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1605469405187">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
