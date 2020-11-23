@@ -70,6 +70,8 @@ require_once 'navbar.html';
                         которыми это расстояние.
                     </li>
                 </ol>
+                <p>Также можете посмореть видео-объяснение этой задачи:</p>
+                <iframe width="800" height="500" src="https://www.youtube.com/embed/OH_Tnl59JB4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 <p>Источники (если все еще не понятно можете посмотреть их):</p>
                     <ol>
                     <li><a href="https://e-maxx.ru/algo/nearest_points">e-maxx.ru</a> (Здесь описано более
